@@ -71,7 +71,7 @@ Results:
 - Feedback & Insights: Stacked bar charts comparing what platforms are consumed by different age demographics to watch videos. Youtube is the most widely used platform for watching videos in comparison to other similar services such as instagram, facebook, tiktok, snapchat, and whatsapp. Nothing confusing, but surprised that youtube is the most popular and think that whatsapp or instagram would be more popular. The legend could be slightly bigger but that’s the only tweak
 
 ### Synthesis: 
-A few clear patterns came up in the feedback. First, people were confused about what the percentages actually represented and how to read the legend. Second, my title and subtitle felt disconnected and a bit too “claim-heavy.” Third, readability came up a lot—things like font size, color use, and how easy it was to compare values. In the final design I change the following: 
+A few clear patterns came up in the feedback. First, people were confused about what the percentages actually represented and how to read the legend. Second, my title and subtitle felt disconnected and a bit too “claim-heavy.” Third, readability came up a lot, things like font size, color use, and how easy it was to compare values. In the final design I change the following: 
 - Made the subtitle more descriptive to clearly explain the percentages and what the colors represent
 - Adjusted the title and subtitle so they align and reflect what the data actually shows
 - Increased font size and kept labels on the bars to improve readability
