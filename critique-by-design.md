@@ -1,26 +1,42 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique and redesign using a visualization from MakeoverMonday
 
 ## Step one: the visualization
+[ Demographics of Social Media Users and Adoption in the United States | Pew Research Center](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213&cb_viewport=desktop#who-uses-each-social-media-platform)
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+For my data visualization, I selected a pew research report on social media usage across different platforms based on demographics. This report caught my interest given the increased usage of social media amongst young people. I also think different platforms are beginning to merge and offer identical services, so its interesting to look at which apps are surviving this competitive field and which ones seem to be dying out or losing traction. The report had two types of visualizations, the top one is a multi-linear graph that shows which platforms adults in the U.S. report using. The first visual does not separate responses by demographics. I chose to do the second visualization which is the table that actually separates survey responses by different groups. While there were different demographics like age, gender, race/ethnicity, household income, education, community, and party ID, I chose to focus on age because it had the most stark data. Additionally, I thought this would be a good place to start given that there was a lot of creative freedom given that the original was just a table. 
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+### Usefulness (5/10): 
+Useful for researchers & marketing teams needing exact percentages, but lacks clear insights or guidance for broader audiences
+### Completeness (7/10): 
+Includes platforms, demographics, and percentages, but missing context like sample size, methodology, and benchmarks
+### Perceptibility (4/10):
+Table format requires scanning and calculating comparisons manually, making patterns difficult to identify quickly
+### Truthfulness (6/10):
+Accurately presents data, but survey limitations and potential response bias are not clearly emphasized
+### Intuitiveness (3/10): 
+Not easy to interpret at a glance, given several categories, the amount of numbers can be perceived as overwhelming.
+### Aesthetics (2/10):
+Minimal but dense and overwhelming, with little visual hierarchy or emphasis
+### Engagement (2/10): 
+It does not guide the viewer toward a key insight or story, nor does it invite exploration beyond scanning numbers.
 
 ## Step three: Sketch a solution
 
+### Sketch 1:
+My initial approach was to transform the table into a heatmap using Datawrapper to improve visual clarity and make patterns easier to identify. Visually, the heatmap is appealing and does help highlight general trends, such as higher platform usage among younger age groups and a clear decline across older groups. However, this format has limitations when it comes to comparison. While the color gradient signals differences, it does not effectively communicate the magnitude of those differences. Additionally, because all values are encoded through color rather than position or length, it requires more effort to compare across platforms or age groups. Overall, while the heatmap improved aesthetics, it is not the most effective choice for detailed comparison, thus I decided to move away from this type of design. 
+
+### Sketch 2: 
+For my second visual, I shifted from a heatmap to a stacked bar chart to support comparison across age groups. While both designs use color, the role of color changes in this visual. Instead of representing intensity (as in the heatmap), color is now used to distinguish age groups, while bar length shows the actual values. This makes differences in platform usage more intuitive to compare.
+
+This approach highlights the gaps in usage between the different age groups. For example, the decline in Instagram usage from younger to older groups, or the consistency of YouTube across all ages, becomes clearer because viewers can look at bar length rather than interpreting color gradients. The addition of percentage labels also makes it easier to read given that people read visuals from left to right. My goal with the title and subheading was to move beyond a neutral description and instead highlight a key takeaway for the audience. However, I found that my initial title and subheading were misaligned. Both attempted to make strong claims, but they were not fully supported or clearly connected to each other, which risked confusing the viewer rather than guiding them. Peer feedback reinforced this issue and also highlighted a lack of clarity around what the percentages represented. My peers mentioned that it was not immediately clear whether the values reflected frequency of use, preference, or survey response rates. This confusion weakens the visualization’s interpretability and credibility. As a result, in my final design, I refined both the labeling and framing of the chart. 
+
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+To test my solution, I asked my peers in and out of class to critique my advice. The following questions are the same ones I asked my peers without giving them context about the visual before showing it to them. 
 
 - Can you tell me what you think this is?
 
@@ -33,27 +49,36 @@ Questions to ask (modify these for your own interviews):
 - Is there anything you would change or do differently?
 
 Results: 
+### Interview 1
+- MSPPM-DA Student, peer from outside of class
+- Professional & academic background in data analytics and political science 
+- Feedback & Insights Different social media uses across age groups and percentages, a key finding is 18-29 uses youtube a lot, 4% of 65+ year olds use snapchat. Make the data labels on the side larger, also consider color blindness for blue you are using the same hue in different shades. 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+### Interview 2 
+- MSPPM DC student 
+-Peer in the class 
+- Little exposure to data visualization prior to this course 
+- Feedback & Insights: Pretty easy to understand but title and subheading might not be completely related to what you are trying to convey because subheading is about differences in generations but the title only focuses on youtube. The key legend and color currently has the label ages in the 18-29 group but not the other. I would also include a small caption at the bottom with the source, and maybe define in the subheading or the caption what you mean by younger adults if you are only considering younger adults 18-19. Also the percentages are not clear, try clarifying if the percentages mean the people from those ages that use those platforms or if it has to do with whether they like it or not. 
 
+### Interview 3
+- MSPPM-Flagship student, peer from outside of class 
+- Professional experience in consulting, and finance 
+- Feedback & Insights: Stacked bar charts comparing what platforms are consumed by different age demographics to watch videos. Youtube is the most widely used platform for watching videos in comparison to other similar services such as instagram, facebook, tiktok, snapchat, and whatsapp. Nothing confusing, but surprised that youtube is the most popular and think that whatsapp or instagram would be more popular. The legend could be slightly bigger but that’s the only tweak
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+### Synthesis: 
+A few clear patterns came up in the feedback. First, people were confused about what the percentages actually represented and how to read the legend. Second, my title and subtitle felt disconnected and a bit too “claim-heavy.” Third, readability came up a lot—things like font size, color use, and how easy it was to compare values. In the final design I change the following: 
+- Made the subtitle more descriptive to clearly explain the percentages and what the colors represent
+- Adjusted the title and subtitle so they align and reflect what the data actually shows
+- Increased font size and kept labels on the bars to improve readability
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<iframe title="Social Media Use Varies by Age, but YouTube Remains Universal" aria-label="Grouped Bars" id="datawrapper-chart-fA2jb" src="https://datawrapper.dwcdn.net/fA2jb/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="815" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## References
-_List any references you used here._
+[_List any references you used here._]
+(https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213&cb_viewport=desktop#who-uses-each-social-media-platform)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Chatgpt was used for correcting grammatical errors, suggestions to design and assistance with embedding code onto github. 
 
