@@ -20,25 +20,34 @@ For my final project, I will focus on the WNBA's recent boom in revenue, attenda
 
 # Initial sketches
 
+<img width="737" height="538" alt="image" src="https://github.com/user-attachments/assets/5c905ed5-f722-4912-a44e-d1995d9221ba" />
+<img width="1041" height="667" alt="image" src="https://github.com/user-attachments/assets/0be13c36-8794-46b9-804a-abe00729e37e" />
+<img width="1199" height="599" alt="image" src="https://github.com/user-attachments/assets/499eb7c8-454f-4636-be8f-0fe89eba239d" />
+<img width="648" height="712" alt="image" src="https://github.com/user-attachments/assets/71928cd0-630c-4f84-8d62-0638ff8a7db4" />
+<img width="955" height="589" alt="image" src="https://github.com/user-attachments/assets/9134d01b-d507-4161-a474-ee8ba2644ea0" />
+<img width="1224" height="514" alt="image" src="https://github.com/user-attachments/assets/8007f50d-97a6-4247-ab2b-00652e4d3993" />
+
 # Data 
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Across the Timeline | [https://www.acrossthetimeline.com/] | Provides historical, game-by-game attendance data dating back to 1997. This will be used to establish the WNBA's baseline growth and visualize the sudden explosion in attendance in recent years. |
-| Sports Media Watch | [https://www.sportsmediawatch.com/tag/wnba-ratings/] | Offers historical national television ratings and league revenue estimates. I will use this to plot the recent spike in viewership. |
-| Sports Media Watch | [https://www.sportsmediawatch.com/tag/ncaa-womens-basketball-ratings/] | Provides NCAA women's tournament viewership data, including the 2024 final's 18.7 million viewers. |
-| Her Hoop Stats | [https://herhoopstats.com/salary-cap-sheet/wnba/summary/2025/] | Details the limitations of the previous WNBA system, such as the $1.5 million team salary cap. I will use this to prove that the historical wage gap was exacerbated by the WNBA's estimated ~9.3% revenue split compared to the NBA's ~50% split (using a consistent 2023–2025 comparison window). |
-| Spotrac | [https://www.spotrac.com/nba/] | Contains historical player contract data for both the NBA and WNBA. This will provide the drastic gap by contrasting the NBA's massive average salaries against the WNBA's historical averages under the old CBA. |
-| WNBA | [https://www.wnba.com/news/wnba-wnbpa-tentative-cba-deal-2026] | Given that the deal just happened this past month, there is not an extensive dataset that can be used. However, the report provided by the WNBA provides the terms of the brand-new 2026 Collective Bargaining Agreement, including the jump to a $7 million team cap and the new 20% revenue-sharing model. |
-
+| Across the Timeline | [https://www.acrossthetimeline.com/](https://www.acrossthetimeline.com/) | Provides historical, game-by-game attendance data dating back to 1997. This will be used to establish the WNBA's baseline growth and visualize the sudden explosion in attendance in recent years. |
+| Sports Media Watch | [https://www.sportsmediawatch.com/tag/wnba-ratings/](https://www.sportsmediawatch.com/tag/wnba-ratings/) | Offers historical national television ratings and league revenue estimates. I will use this to plot the recent spike in viewership. |
+| Sports Media Watch | [https://www.sportsmediawatch.com/tag/ncaa-womens-basketball-ratings/](https://www.sportsmediawatch.com/tag/ncaa-womens-basketball-ratings/) | Provides NCAA women's tournament viewership data, including the 2024 final's 18.7 million viewers. |
+| Her Hoop Stats | [https://herhoopstats.com/salary-cap-sheet/wnba/summary/2025/](https://herhoopstats.com/salary-cap-sheet/wnba/summary/2025/) | Details the limitations of the previous WNBA system, such as the $1.5 million team salary cap. I will use this to prove that the historical wage gap was exacerbated by the WNBA's estimated ~9.3% revenue split compared to the NBA's ~50% split (using a consistent 2023–2025 comparison window). |
+| Spotrac | [https://www.spotrac.com/nba/](https://www.spotrac.com/nba/) | Contains historical player contract data for both the NBA and WNBA. This will provide the drastic gap by contrasting the NBA's massive average salaries against the WNBA's historical averages under the old CBA. |
+| WNBA | [https://www.wnba.com/news/wnba-wnbpa-tentative-cba-deal-2026](https://www.wnba.com/news/wnba-wnbpa-tentative-cba-deal-2026) | Given that the deal just happened this past month, there is not an extensive dataset that can be used. However, the report provided by the WNBA provides the terms of the brand-new 2026 Collective Bargaining Agreement, including the jump to a $7 million team cap and the new 20% revenue-sharing model. |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+To bring this data story to life, I plan to build an interactive, scrolling narrative using Shorthand. This medium will allow me to display the three “ acts “ of my story, which include the boom, the gap, and the new deal. The data visualizations themselves will be developed using Tableau. Given the extensive graphs that require moving around more critical pieces of information, tableau is more user friendly in terms of being able to have more of a hand in the final product, whereas data wrapper has a limitation in types of graphs that can be produced. Once completed, I will embed these interactive Tableau dashboards directly into the Shorthand presentation. 
 
 ## References
-_List any references you used here._
+- [Breaking the Glass Backboard: Pay Disparities in Women's Basketball](https://econreview.studentorg.berkeley.edu/breaking-the-glass-backboard-pay-disparities-in-womens-basketball/)
+- [Road to $1M paydays: How WNBA salaries evolved with each CBA](https://www.espn.com/wnba/story/_/id/47813218/wnba-cba-collective-bargaining-agreement-negotiations-salary-cap)
+- [ESPN Sets Record Ratings for Women's Hoops Without Caitlin Clark](https://frontofficesports.com/espn-sets-record-ratings-for-womens-hoops-without-caitlin-clark/)
+- [March Madness: Staley, Clark, Growth](https://apnews.com/article/march-madness-staley-clark-growth-495a79087d0e1972ed691388a9d3ffc1)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+For this project, I utilized Google's Gemini to help me brainstorm ideas and consult the tools I would need to make this a reality. Specifically, AI was used to help structure the narrative flow of the data story and to brainstorm creative Tableau visualization strategies. Furthermore, I used the AI's image generation capabilities to create wireframes and sketches to prototype the dashboard layouts before building them.
+
+Human Contribution: All data points, sources, and core arguments were independently verified. Sketches were produced by myself after getting inspiration from Gemini. 
