@@ -46,7 +46,7 @@
 </div>
 
 <!-- ===================== VISUAL 3 ===================== -->
-<h2>📊 Visual : WNBA Attendance Growth</h2>
+<h2> Visual : WNBA Attendance Growth</h2>
 
 <div class='tableauPlaceholder' id='viz3' style='position: relative'>
     <noscript>
