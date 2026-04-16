@@ -2,72 +2,14 @@
 
 # Wireframes / storyboards
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Visualizations</title>
-</head>
+##  Visual 1: NCAA Historic Gap  
+https://public.tableau.com/views/NCAAHistoricGap/NCAAHistoricGap
 
-<body style="font-family: Arial, sans-serif; margin: 40px;">
+##  Visual 2: Dashboard  
+https://public.tableau.com/shared/4BTNNFW59
 
-<h1>Visualizations</h1>
-
-<!-- ===================== VISUAL 1 ===================== -->
-<h2>Visual 1: NCAA Historic Gap</h2>
-
-<div class='tableauPlaceholder' id='viz1' style='position: relative'>
-    <noscript>
-        <a href='#'>
-            <img src='https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAAHistoricGap/1.png' />
-        </a>
-    </noscript>
-    <object class='tableauViz'>
-        <param name='host_url' value='https://public.tableau.com/' />
-        <param name='name' value='NCAAHistoricGap/NCAAHistoricGap' />
-        <param name='tabs' value='no' />
-        <param name='toolbar' value='yes' />
-    </object>
-</div>
-
-<!-- ===================== VISUAL 2 ===================== -->
-<h2> Visual 2: Dashboard</h2>
-
-<div class='tableauPlaceholder' id='viz2' style='position: relative'>
-    <noscript>
-        <a href='#'>
-            <img src='https://public.tableau.com/static/images/4B/4BTNNFW59/1.png' />
-        </a>
-    </noscript>
-    <object class='tableauViz'>
-        <param name='host_url' value='https://public.tableau.com/' />
-        <param name='path' value='shared/4BTNNFW59' />
-        <param name='toolbar' value='yes' />
-    </object>
-</div>
-
-<!-- ===================== VISUAL 3 ===================== -->
-<h2> Visual : WNBA Attendance Growth</h2>
-
-<div class='tableauPlaceholder' id='viz3' style='position: relative'>
-    <noscript>
-        <a href='#'>
-            <img src='https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1.png' />
-        </a>
-    </noscript>
-    <object class='tableauViz'>
-        <param name='host_url' value='https://public.tableau.com/' />
-        <param name='name' value='attendancewnba/Sheet1' />
-        <param name='tabs' value='no' />
-        <param name='toolbar' value='yes' />
-    </object>
-</div>
-
-<!-- SINGLE SCRIPT FOR ALL VISUALS -->
-<script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
-
-</body>
-</html>
-
+##  Visual 3: WNBA Attendance Growth  
+https://public.tableau.com/views/attendancewnba/Sheet1
 
 
 # User research 
