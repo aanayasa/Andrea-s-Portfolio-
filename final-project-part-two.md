@@ -3,13 +3,85 @@
 # Wireframes / storyboards
 
 ##  Visual 1: NCAA Historic Gap  
-https://public.tableau.com/views/NCAAHistoricGap/NCAAHistoricGap
 
-##  Visual 2: Dashboard  
-https://public.tableau.com/shared/4BTNNFW59
+<div class="tableauPlaceholder" style="width: 100%; max-width: 1000px; margin: auto;">
+  <noscript>
+    <a href="https://public.tableau.com/views/3FS7QCX36/Dashboard1">
+      <img 
+        alt="Dashboard 1" 
+        src="https://public.tableau.com/static/images/3F/3FS7QCX36/1.png" 
+        style="width: 100%; border: none;" 
+      />
+    </a>
+  </noscript>
+  <object class="tableauViz" style="width: 100%; height: 800px;">
+    <param name="host_url" value="https://public.tableau.com/" />
+    <param name="embed_code_version" value="3" />
+    <param name="path" value="shared/3FS7QCX36" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/3F/3FS7QCX36/1.png" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
+  </object>
+</div>
 
-##  Visual 3: WNBA Attendance Growth  
-https://public.tableau.com/views/attendancewnba/Sheet1
+##  Visual 2: NCAA Boom Part 2
+## Visual 2: NCAA Historic Gap
+
+<div class="tableauPlaceholder" style="width: 100%; max-width: 1000px; margin: auto;">
+  <noscript>
+    <a href="https://public.tableau.com/views/NCAAHistoricGap/NCAAHistoricGap">
+      <img 
+        alt="NCAA Historic Gap" 
+        src="https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAAHistoricGap/1.png" 
+        style="width: 100%; border: none;" 
+      />
+    </a>
+  </noscript>
+  <object class="tableauViz" style="width: 100%; height: 800px;">
+    <param name="host_url" value="https://public.tableau.com/" />
+    <param name="embed_code_version" value="3" />
+    <param name="name" value="NCAAHistoricGap/NCAAHistoricGap" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAAHistoricGap/1.png" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
+  </object>
+</div>
+
+## Visual 3: WNBA Attendance Growth
+
+<div class="tableauPlaceholder" style="width: 100%; max-width: 1000px; margin: auto;">
+  <noscript>
+    <a href="https://public.tableau.com/views/attendancewnba/Sheet1">
+      <img 
+        alt="WNBA Attendance Has Nearly Quadrupled Since 2021" 
+        src="https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1.png" 
+        style="width: 100%; border: none;" 
+      />
+    </a>
+  </noscript>
+  <object class="tableauViz" style="width: 100%; height: 800px;">
+    <param name="host_url" value="https://public.tableau.com/" />
+    <param name="embed_code_version" value="3" />
+    <param name="name" value="attendancewnba/Sheet1" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1.png" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
+  </object>
+</div>
 
 
 # User research 
