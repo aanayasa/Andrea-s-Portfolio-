@@ -2,24 +2,30 @@
 
 # Wireframes / storyboards
 
-##  Visual 1: NCAA Historic Gap  
+##  Visual 1: NCAA Boom 
 
-<div class="tableauPlaceholder" style="width: 100%; max-width: 1000px; margin: auto;">
+<h2>Visual 3: WNBA Attendance Growth</h2>
+
+<div class="tableauPlaceholder" id="viz1776457631571" style="position: relative; width: 100%; max-width: 1000px; margin: auto;">
   <noscript>
-    <a href="https://public.tableau.com/views/3FS7QCX36/Dashboard1">
+    <a href="https://public.tableau.com/views/attendancewnba/Sheet1">
       <img 
-        alt="Dashboard 1" 
-        src="https://public.tableau.com/static/images/3F/3FS7QCX36/1.png" 
-        style="width: 100%; border: none;" 
+        alt="WNBA Attendance Has Nearly Quadrupled Since 2021 Average game attendance jumped from 2.6k to 9.8k" 
+        src="https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1_rss.png" 
+        style="border: none; width: 100%;" 
       />
     </a>
   </noscript>
-  <object class="tableauViz" style="width: 100%; height: 800px;">
+
+  <object class="tableauViz" style="display:none;">
     <param name="host_url" value="https://public.tableau.com/" />
     <param name="embed_code_version" value="3" />
-    <param name="path" value="shared/3FS7QCX36" />
+    <param name="site_root" value="" />
+    <param name="name" value="attendancewnba/Sheet1" />
+    <param name="tabs" value="no" />
     <param name="toolbar" value="yes" />
-    <param name="static_image" value="https://public.tableau.com/static/images/3F/3FS7QCX36/1.png" />
+    <param name="static_image" value="https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1.png" />
+    <param name="animate_transition" value="yes" />
     <param name="display_static_image" value="yes" />
     <param name="display_spinner" value="yes" />
     <param name="display_overlay" value="yes" />
@@ -28,8 +34,19 @@
   </object>
 </div>
 
-##  Visual 2: NCAA Boom Part 2
-## Visual 2: NCAA Historic Gap
+<script type="text/javascript">
+  var divElement = document.getElementById('viz1776457631571');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+## Visual 2: NCAA Historic Gap 
 
 <div class="tableauPlaceholder" style="width: 100%; max-width: 1000px; margin: auto;">
   <noscript>
