@@ -124,11 +124,41 @@
 
 ## Visual 5: Revenue Court Split 
 
-<img width="1882" height="980" alt="Screenshot 2026-04-21 155745" src="https://github.com/user-attachments/assets/2da78a26-04ce-4721-a94a-7ab828062a6e" />
+<h2>Visual 4: Pay Disparity</h2>
 
-<img width="1882" height="916" alt="Screenshot 2026-04-21 160359" src="https://github.com/user-attachments/assets/77ea76b9-9b59-4680-93e4-04c0e1d74d90" />
+<div style="max-width: 1000px; margin: 24px auto;">
+  <img 
+    src="images/your-image-name.png" 
+    alt="WNBA pay disparity visualization"
+    style="width: 100%; height: auto; border-radius: 12px;"
+  >
+</div>
 
-<img width="1714" height="800" alt="Screenshot 2026-04-21 161422" src="https://github.com/user-attachments/assets/6c3399ab-43e4-4e09-a989-a5d5a3882419" />
+<h2>Visual 5: Revenue Court Split</h2>
+
+<div style="max-width: 1000px; margin: 24px auto;">
+  <img 
+    src="https://github.com/user-attachments/assets/2da78a26-04ce-4721-a94a-7ab828062a6e" 
+    alt="NBA 50/50 revenue split model"
+    style="width: 100%; height: auto; border-radius: 12px;"
+  >
+</div>
+
+<div style="max-width: 1000px; margin: 24px auto;">
+  <img 
+    src="https://github.com/user-attachments/assets/77ea76b9-9b59-4680-93e4-04c0e1d74d90" 
+    alt="WNBA previous CBA revenue split model"
+    style="width: 100%; height: auto; border-radius: 12px;"
+  >
+</div>
+
+<div style="max-width: 1000px; margin: 24px auto;">
+  <img 
+    src="https://github.com/user-attachments/assets/6c3399ab-43e4-4e09-a989-a5d5a3882419" 
+    alt="WNBA new 2026 CBA revenue split model"
+    style="width: 100%; height: auto; border-radius: 12px;"
+  >
+</div>
 
 ## Visual 6: CBA Max Salaries Throughout the Years
 
