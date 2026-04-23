@@ -104,9 +104,31 @@
 
 ## Visual 3: WNBA Viewership Boom 
 
+<div style="margin: 20px 0;">
+  <iframe 
+    title="The WNBA Viewership Boom"
+    src="https://datawrapper.dwcdn.net/9ZujH/3/"
+    scrolling="no"
+    frameborder="0"
+    style="width: 100%; height: 600px; border: none;"
+  ></iframe>
+</div>
+
 ## Visual 4: Pay Disparity 
 
+<img 
+  src="https://github.com/user-attachments/assets/ce06028c-94f3-431e-b346-44369ae3602e" 
+  alt="WNBA visualization cover"
+  style="width:100%; height:auto; border-radius:12px;"
+>
+
 ## Visual 5: Revenue Court Split 
+
+<img width="1882" height="980" alt="Screenshot 2026-04-21 155745" src="https://github.com/user-attachments/assets/2da78a26-04ce-4721-a94a-7ab828062a6e" />
+
+<img width="1882" height="916" alt="Screenshot 2026-04-21 160359" src="https://github.com/user-attachments/assets/77ea76b9-9b59-4680-93e4-04c0e1d74d90" />
+
+<img width="1714" height="800" alt="Screenshot 2026-04-21 161422" src="https://github.com/user-attachments/assets/6c3399ab-43e4-4e09-a989-a5d5a3882419" />
 
 ## Visual 6: CBA Max Salaries Throughout the Years
 
