@@ -108,13 +108,13 @@ The main challenge I ran into was that these two trends were on very different s
 
 Originally, I tried combining both in an area chart, but it felt misleading and visually overwhelming. The difference in scale made it difficult to interpret either trend clearly. Thus, I made the decision to focus solely on viewership, since it tells a stronger and more compelling story about growth and visibility. I kept the area beneath the line to emphasize that upward trend without overcomplicating the visual.
 
-<div style="margin: 20px 0;">
+<div style="max-width: 900px; margin: 24px auto;">
   <iframe 
     title="The WNBA Viewership Boom"
     src="https://datawrapper.dwcdn.net/9ZujH/3/"
     scrolling="no"
     frameborder="0"
-    style="width: 100%; height: 600px; border: none;"
+    style="width: 100%; height: 750px; border: none;"
   ></iframe>
 </div>
 
