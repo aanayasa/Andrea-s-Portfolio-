@@ -3,11 +3,14 @@ layout: default
 title: Data Viz Examples
 ---
 
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](https://aanayasa.github.io/Andrea-s-Portfolio-/) | 
+[Data Viz Examples](https://aanayasa.github.io/Andrea-s-Portfolio-/dataviz-examples) | 
+[Critique by Design](https://aanayasa.github.io/Andrea-s-Portfolio-/critique-by-design) | 
+[Final Project I](https://aanayasa.github.io/Andrea-s-Portfolio-/final-project-part-one) | 
+[Final Project II](https://aanayasa.github.io/Andrea-s-Portfolio-/final-project-part-two) | 
+[Final Project III](https://aanayasa.github.io/Andrea-s-Portfolio-/final-project-part-three) |
 
 # Data visualization examples
-
-_You can place some of your data viz examples from the course here. Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 ## Debt to GDP Ratio 2007–2023
 
