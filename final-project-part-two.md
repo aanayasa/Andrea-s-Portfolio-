@@ -110,13 +110,14 @@ Originally, I tried combining both in an area chart, but it felt misleading and 
 
 <div style="max-width: 900px; margin: 24px auto;">
   <iframe 
-    title="The WNBA Viewership Boom"
+    title="WNBA Viewership"
     src="https://datawrapper.dwcdn.net/9ZujH/3/"
     scrolling="no"
     frameborder="0"
-    style="width: 100%; height: 750px; border: none;"
-  ></iframe>
+    style="width: 100%; height: 900px; border: none;">
+  </iframe>
 </div>
+
 
 ## Visual 4: Pay Disparity 
 
