@@ -294,9 +294,6 @@ People interested in data visualization but not necessarily sports.
 | Assess clarity and design (aesthetics) | Are the sizes of text, lines, and shapes a good size, too big, or too small?<br>Do the colors fit well with the story?<br>Are the images distracting?<br>Do you think this is an appropriate visual to showcase the information?<br>If not, would there be another graph that would help you understand this better? |
 | Evaluate understanding of the story and impact | Can you identify what the main story or issue of the graph is?<br>What kind of story is it telling?<br>Does this change the way you think about the WNBA, women’s sports, or pay equity? |
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
 ## User Feedback Table
 
 | Questions | Interview Feedback |
