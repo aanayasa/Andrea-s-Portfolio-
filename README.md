@@ -2,7 +2,7 @@
 Web page URL: https://aanayasa.github.io/Andrea-s-Portfolio-/
   
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU! 
 
 # About me
 ## Andrea Anaya-Sandoval, She/Her 
