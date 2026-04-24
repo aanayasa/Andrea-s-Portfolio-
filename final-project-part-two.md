@@ -344,8 +344,27 @@ Finally, a key gap identified across interviews was the lack of a forward-lookin
 
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-Chatgpt was used for proper formatting on github and grammatical errors in text. 
+- Nielsen. [Tops of 2024: Sports](https://www.nielsen.com/insights/2024/tops-2024-sports/)
+- ESPN Press Room U.S. [ESPN’s Monumental WNBA Season Sets New Viewership Records](https://espnpressroom.com/us/press-releases/2024/09/espns-monumental-wnba-season-sets-new-viewership-records/)
+- VERSANT. [VERSANT Adds WNBA Media Deal to Its Growing Sports Portfolio](https://www.versant.tv/news/wnba-media-deal/)
+- ESPN. [WNBA CBA Negotiations and Salary Cap Changes](https://www.espn.com/wnba/story/_/id/47813218/wnba-cba-collective-bargaining-agreement-negotiations-salary-cap)
+- ESPN. [Road to $1M Paydays: How WNBA Salaries Evolved with Each CBA](https://www.espn.com/wnba/story/_/id/48494265/sources-wilson-staying-aces-3-year-5m-supermax-deal)
+- WNBA. [WNBA Secures Landmark Media Rights Deals with Disney, Amazon Prime Video, and NBCUniversal](https://www.wnba.com/news/media-rights-deal-disney-prime-nbc)
+- CBS Sports. [NBA CBA 101: Salary Cap, Free Agency, and Revenue Structure](https://www.cbssports.com/nba/news/nba-cba-101-everything-to-know-about-new-agreement-from-salary-cap-to-free-agency-and-beyond/)
+- Across the Timeline. [WNBA Historical Data](https://www.acrossthetimeline.com/)
+- Sports Media Watch. [WNBA Ratings and Viewership Trends](https://www.sportsmediawatch.com/tag/wnba-ratings/)
+- Her Hoop Stats. [WNBA Salary Cap Sheet (2025)](https://herhoopstats.com/salary-cap-sheet/wnba/summary/2025/)
+- Spotrac. [NBA Salary Data and Contracts](https://www.spotrac.com/nba/)
+- WNBA. [WNBA and WNBPA Tentative CBA Agreement (2026)](https://www.wnba.com/news/wnba-wnbpa-tentative-cba-deal-2026)
+  
+## AI Acknowledgements
+
+ChatGPT was used to assist with correcting grammatical errors, formatting content for GitHub Markdown, and generating the pay disparity visual based on the data and specifications I provided.
+
+Figma was used to design and create the court visuals.
+
+Gemini was used during the creative process to support brainstorming and idea development.
+
+All analysis, design decisions, and final interpretations are my own.
 
