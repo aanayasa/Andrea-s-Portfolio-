@@ -1,5 +1,4 @@
-| [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://aanayasa.github.io/Andrea-s-Portfolio-/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
+| [home page](https://aanayasa.github.io/Andrea-s-Portfolio-/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 Web page URL: https://aanayasa.github.io/Andrea-s-Portfolio-/
   
 # Portfolio
