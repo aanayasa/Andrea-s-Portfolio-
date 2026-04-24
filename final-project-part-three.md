@@ -1,17 +1,18 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-(https://carnegiemellon.shorthandstories.com/breaking-the-ceiling-wnba-growth-player-equality/index.html)
+[Breaking the Ceiling: WNBA Growth & Player Equality](https://carnegiemellon.shorthandstories.com/breaking-the-ceiling-wnba-growth-player-equality/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+> Since Part II, I made several revisions based on feedback from interviews and critiques of my visuals. Much of the more substantial feedback was received during Part I and was already reflected in my Part II submission. As a result, the revisions between Part II and the final project were more focused on refinement rather than major redesign.
 
-Text here!
 
 # The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+> The intended audience for this data story is a general audience with limited prior knowledge of the WNBA, sports economics, or collective bargaining agreements. This includes individuals who may be aware of the pay gap debate but do not fully understand the structural reasons behind it.
 
-Text here!
+Insights from interviews helped refine this audience. Many participants initially believed that the pay gap was primarily due to differences in popularity or total revenue between leagues. However, after engaging with the visuals, they began to understand that the issue is more about how revenue is shared rather than how much revenue exists.
+
+Originally, I considered using more traditional charts, such as bar charts and pie charts, to represent revenue. However, I ultimately chose to use the court visual because it proved to be more intuitive, especially for audiences without prior knowledge of the WNBA or sports contracts. The familiarity of a basketball court made the concept of revenue distribution easier to understand at a glance.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
@@ -19,10 +20,17 @@ Text here!
 Text here!
 
 # References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+> All references are included in the Shorthand story. No additional sources were used beyond those already cited.
+
 
 # AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+> ChatGPT was used to assist with correcting grammatical errors, formatting content for GitHub Markdown, and generating the pay disparity visual based on the data and specifications I provided.  
+
+Figma was used to design and create the court visuals.  
+
+Gemini was used during the creative process to support brainstorming and idea development.  
+
+All analysis, design decisions, and final interpretations are my own.
 
 Text here!
 
